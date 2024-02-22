@@ -7,4 +7,4 @@ Welcome to the Mobile Native Apps repository! This repository hosts a collection
 ### 1. Calculator App
 A simple calculator app built with Java.
 
-![Calculator App Screenshot](screenshots/calculator.jpg)
+![Calculator App Screenshot](screenshots/calculator.png)
