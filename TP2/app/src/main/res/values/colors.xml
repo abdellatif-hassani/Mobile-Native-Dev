@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Light_white">#FFFFEC</color>
+    <!--    Blue and its derevant-->
+    <color name="blue">#387ADF</color>
+    <color name="dark_blue">#AAD7D9</color>
+    <!--    Green and its derevant-->
+    <color name="green">#416D19</color>
+    <!--    Green and its derevant-->
+    <color name="red">#EE4266</color>
+
+
+</resources>
