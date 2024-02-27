@@ -8,3 +8,8 @@ Welcome to the Mobile Native Apps repository! This repository hosts a collection
 A simple calculator app built with Java.
 
 ![Calculator App Screenshot](screenshots/calculator.png)
+
+### 2. List view
+A simple List view app which dispalys a list of elements.
+
+![ListView App Screenshot](screenshots/calculator.png)
