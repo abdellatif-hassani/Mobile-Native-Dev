@@ -12,4 +12,4 @@ A simple calculator app built with Java.
 ### 2. List view
 A simple List view app which dispalys a list of elements.
 
-![ListView App Screenshot](screenshots/calculator.png)
+![ListView App Screenshot](screenshots/listView.png)
