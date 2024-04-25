@@ -8,7 +8,7 @@ Welcome to the Mobile Native Apps repository! This repository hosts a collection
 
 The app is a simple chatbot application for Android where users can exchange messages with a chatbot.
 
-![ListView App Screenshot](screenshots/chat-app.png.png)
+![Chatbot screen](screenshots/chat-app.png)
 
 ### 2. Calculator App
 A simple calculator app built with Java.
