@@ -75,7 +75,10 @@ public class MainActivity extends AppCompatActivity {
         protected String doInBackground(String... params) {
             String resultMessage = "";
             try {
-                Call<ChatResponse> call = chatService.sendMessage("181513", "PYjoJLy5M7deq8mu", "123", params[0]);
+                String apiId = System.getProperty("api.id");
+                String apiKey = System.getProperty("api.key");
+                String uid = System.getProperty("api.uid");
+                Call<ChatResponse> call = chatService.sendMessage(apiId, apiKey, uid, params[0]);
                 Response<ChatResponse> response = call.execute();
                 if (response.isSuccessful() && response.body() != null) {
                     resultMessage = response.body().getCnt();
